@@ -45,12 +45,12 @@
         {
           "anchor": "Announcements",
           "href": "https://x.com/aippyai",
-          "icon": "twitter"
+          "icon": "megaphone"
         },
         {
           "anchor": "Request Feature",
           "href": "https://feedback.aippy.ai/",
-          "icon": "rocket"
+          "icon": "lightbulb"
         }
       ]
     }
