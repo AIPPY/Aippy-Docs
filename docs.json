@@ -25,11 +25,9 @@
           {
             "group": "Features",
             "pages": [
-              "user-guides/quickstart",
+              "quickstart",
               "user-guides/messaging-limits",
-              "features/knowledge",
-              "features/deploy",
-              "tips-tricks/custom-domain"
+              "features/knowledge"
             ]
           }
         ]
