@@ -1,0 +1,84 @@
+---
+title: "Changelog"
+description: "What’s new at Aippy. "
+icon: "🚀"
+---
+
+## [v0.4.0] - 2025-05-14
+
+#### 🚀 Improved  
+
+- Streamlined publishing workflow — go live with your project in just one click  
+- Enhanced backend infrastructure for faster and more reliable deployments  
+- Output style upgraded for cleaner layout and better visual consistency   
+
+#### 🐛 Fixed  
+  
+- Improved compatibility across project states and preview modes  
+
+We're growing with you — thanks for being part of the journey 💜
+
+## [v0.3.1] - 2025-05-13
+
+#### 🚀 Improved  
+
+- More detailed frontend error logging for easier debugging  
+
+#### 🐛 Fixed  
+
+- Patch fixes for v0.3.0 regressions  
+
+Better debugging, less head-scratching 😄
+
+## [v0.3.0] - 2025-04-30
+
+#### 🚀 Improved  
+
+- Launched **Community Showcase Cards** to highlight quality creations  
+- Added quick zoom-in preview  
+- Redesigned **My Projects** page for clearer project display and control  
+
+#### 🐛 Fixed  
+
+- Pre-launch bug fixes for smoother onboarding experience  
+
+Aippy’s creative spirit is powered by your ideas — keep them coming 💜 
+
+## [v0.2.0] - 2025-04-24
+
+#### 🚀 Improved  
+
+- Optimized image upload flow
+- Smarter auto-suggestions
+- UI responsiveness and editor polish 
+
+Thanks for the feedback — we’re making Aippy smoother every day 💜
+
+
+## [v0.1.0] - 2025-04-18
+
+### 🎉 Aippy's First Release - The Beginning of Something Amazing!
+
+We’re beyond excited to introduce the **first-ever release of Aippy** – your AI-powered teammate for turning ideas into fully functional apps, without writing a single line of code.
+
+After weeks of prompt-tweaking, layout-tuning, and late-night inspiration, we’re ready to open the gates. It’s time to build websites, tools, and interactive experiences — just by describing them.
+
+#### 🚀 What’s Inside
+- **AI-generated projects** – Tell Aippy what you want to build, and it does the rest.
+- **Natural language to layout** – From interface to logic, no code required.
+- **Live previews** – See your project unfold in real time, as you type.
+- **Instant onboarding** – Get from zero to “wow” in minutes.
+
+#### 🔧 Under the Hood
+- Aippy runs on a powerful blend of LLMs, design systems, and frontend magic.
+- We’ve fine-tuned the UX to be beginner-friendly, but pro-capable.
+- Our prompt engine has been tested with wild, wonderful use cases — and it’s ready for yours.
+
+#### 🔮 What’s Next?
+- More component variety, smarter logic generation, and better context awareness.
+- We’re shaping Aippy’s roadmap based on your ideas, creations, and feedback.
+- Have a feature in mind? Let us know — you’re building Aippy with us.
+
+  
+**Let Your Ideas Flow.**  
+**Aippy — your AI-powered teammate for bringing ideas to working projects.**
