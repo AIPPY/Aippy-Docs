@@ -1,0 +1,26 @@
+---
+title: "Feedback"
+description: "Let your ideas flow — share your thoughts to help us improve Aippy."
+icon: "message-square"
+---
+
+We'd love to hear from you 💜  
+Feature requests, bugs, confusion, compliments — everything helps us make Aippy better.
+
+---
+
+### 📝 Quick Feedback Form
+
+<iframe
+  src="https://tally.so/r/your-form-id"
+  width="100%"
+  height="600"
+  frameborder="0"
+  marginheight="0"
+  marginwidth="0"
+  title="Aippy Feedback Form"
+/>
+
+<Note>
+  Prefer email? You can also reach us directly at [hi@aippy.ai](mailto:hi@aippy.ai)
+</Note>
