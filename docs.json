@@ -46,7 +46,7 @@
         },
         {
           "anchor": "Feedback",
-          "href": "https://feedback.aippy.ai/",
+          "href": "feedback",
           "icon": "message-lines"
         }
       ]
