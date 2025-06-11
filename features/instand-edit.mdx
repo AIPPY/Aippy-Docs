@@ -1,0 +1,72 @@
+---
+title: "Instant Edit"
+description: "Visually refine your UI with integrated Tailwind controls."
+icon: "computer-mouse"
+---
+
+<Info>
+  - Using Instant Edit incurs **no cost** and doesn't consume credits.
+  - Apply numerous visual adjustments in one go before saving.
+  - Leverage built-in Tailwind controls for styling within the visual editor.
+</Info>
+
+Aippy makes visual development accessible to all. **Instant Edit** offers an intuitive, Figma-inspired environment where you can modify your application's appearance directly on the canvas, while preserving direct control over the source Tailwind CSS code.
+
+Forget prompts and uncertainty. Simply point, adjust, and ship.
+
+## Getting Started with Instant Edit
+
+1.  **Launch Instant Edit:** Use the toolbar icon or the keyboard shortcut.
+2.  **Target an Element:** Hover your cursor and click on any part of the UI—text blocks, images, buttons, containers—that you want to change.
+3.  **Make Visual Changes:**
+    *   Directly edit text content.
+    *   Fine-tune spacing, alignment, and overall layout.
+    *   Alter colors, typography, and element dimensions.
+    *   Add, remove, or modify Tailwind utility classes.
+4.  **Work with Parent Elements:** Select containing elements to adjust broader structure or layout properties.
+5.  **(Optional) Engage AI:** For more complex modifications, you can optionally involve AI assistance.
+6.  **See Live Previews:** Observe the impact of your edits in real-time before committing them.
+
+Visual modifications take effect right away, eliminating build delays, AI wait times, and code merging issues.
+
+## The Advantage of Instant Edit
+
+Instant Edit drastically accelerates the cycle from **concept to UI execution**:
+
+-   **Intuitive No-Code Feel with Professional Code Output:** Empowers designers with precise visual control while ensuring developers receive clean, standard-compliant code.
+-   **Quicker Design Cycles, Less CSS Hassle:** Stop guessing how styles will render. See live results and make immediate adjustments for faster iteration.
+-   **Fluid Development with Hot Module Reloading (HMR):** Leveraging Vite Dev Servers, changes saved via Instant Edit are reflected instantly in the browser, bypassing the need for page reloads.
+-   **Reliable Code Modification via AST:** Behind the scenes, your code is parsed into an Abstract Syntax Tree (AST) within the browser, allowing for dependable and precise updates without risky string manipulation.
+-   **Robust, Scalable Backend:** Every Instant Edit operates within isolated, containerized cloud environments (over 4,000 ready), guaranteeing speed and reliability, even for large applications.
+-   **Pure Tailwind Integration:** Edits generate standard Tailwind CSS, whether you use default configurations or custom classes, preventing style lock-in and promoting code consistency.
+
+## Typical Scenarios
+
+-   Modifying button styles (colors, fonts) interactively.
+-   Resizing and aligning layout elements using visual handles.
+-   Updating call-to-action (CTA) text directly within the UI.
+-   Applying or tweaking Tailwind utilities for spacing, effects, borders, etc.
+-   Checking responsiveness and theme variations instantly during editing.
+
+## Technical Insights (How It Works)
+
+Instant Edit connects the visual layer directly to the code:
+
+-   **Reliable Element Mapping:** A custom Vite plugin intelligently tags components during the build process, ensuring visual changes correctly map back to the original JSX source.
+-   **Client-Side Code Parsing (AST):** The application's codebase is transformed into an interactive AST directly in the user's browser (using Babel & SWC), enabling live manipulation and class handling without server latency.
+-   **Real-time Tailwind Engine:** A live Tailwind parser renders changes immediately, letting you visualize the outcome before saving.
+-   **Efficient HMR Updates:** When saved, Instant Edit generates clean code, calculates the differences (diffs), and triggers HMR to update the running application instantaneously.
+
+## Designed for Diverse Teams
+
+Instant Edit is built to fit naturally into different workflows:
+
+-   **Founders** refining the product vision visually.
+-   **Designers** perfecting layout and style nuances with precision.
+-   **Developers** polishing implementation details with immediate visual feedback.
+
+## In Summary
+
+Instant Edit reflects our commitment to democratize software development. It's offered at no cost, performs rapidly, and scales effortlessly with your project's demands.
+
+[Give Aippy a try.](https://aippy.ai) Rediscover the speed of seamless iteration.

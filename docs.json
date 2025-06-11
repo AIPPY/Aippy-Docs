@@ -26,7 +26,9 @@
             "group": "Features",
             "pages": [
               "quickstart",
-              "user-guides/pricing"
+              "user-guides/pricing",
+              "features/instand-edit",
+              "features/publish"
             ]
           }
         ]
