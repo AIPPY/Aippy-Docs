@@ -27,8 +27,7 @@
             "pages": [
               "quickstart",
               "user-guides/pricing",
-              "features/instand-edit",
-              "features/publish"
+              "features/instand-edit"
             ]
           }
         ]
