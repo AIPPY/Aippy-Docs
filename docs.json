@@ -29,6 +29,18 @@
               "user-guides/pricing",
               "features/instand-edit"
             ]
+          },
+          {
+            "group": "Tips & Tricks",
+            "pages": [
+              "tips-tricks/ultimate_design_guide"
+            ]
+          },
+          {
+            "group": "Use Cases",
+            "pages": [
+              "user-case/landing-page"
+            ]
           }
         ]
       }
